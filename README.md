@@ -99,7 +99,7 @@ As senhas dos administradores devem ser armazenadas utilizando criptografia para
 
 ## Tecnologias Utilizadas
 
-![Figma](https://www.figma.com/design/aUXInFY6s0Kp81VnPQmI1H/prototipo?node-id=0-1&t=HmDBRhPAt5RvLBSk-1style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/Acessar%20Protótipo-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/aUXInFY6s0Kp81VnPQmI1H/prototipo?node-id=0-1&t=HmDBRhPAt5RvLBSk-1)
 
 ---
 
