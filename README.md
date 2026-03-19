@@ -111,7 +111,7 @@ O protótipo foi desenvolvido utilizando a ferramenta Figma para simular a naveg
 
 ## Login para computador
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/dfabacf3-746c-4005-96e5-9b842bca9028" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/dfabacf3-746c-4005-96e5-9b842bca9028" />
 
 
 ## Login para celular
