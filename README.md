@@ -81,32 +81,6 @@ O objetivo é desenvolver um sistema acessível, organizado e eficiente para ger
 
 ---
 
-## Escopo
-
-Diante das demandas definidas para a Sprint 1, a equipe Arqon assume o desenvolvimento de cinco telas essenciais para o sistema:
-
-Página de Login
-Campos para e-mail e senha com botão de autenticação.
-
-Painel Administrativo
-Área para gerenciamento de marcas e produtos cadastrados.
-
-Cadastro de Marca Parceira
-Campos para nome da marca, e-mail de contato e telefone.
-
-Cadastro de Peça
-Campos para:
-
-* marca parceira
-* título da peça
-* descrição do produto
-* valor da locação diária
-
-Listagem de Peças
-Interface para visualização organizada dos itens cadastrados.
-
----
-
 ## Considerações
 
 ### Escalabilidade
@@ -164,6 +138,4 @@ O cronograma do projeto foi estruturado utilizando a plataforma ClickUp para ger
 
 ---
 
-Projeto desenvolvido no curso Técnico em Desenvolvimento de Sistemas
-SENAI A. Jacob Lafer — Santo André
-2026
+
