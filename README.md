@@ -16,10 +16,9 @@ Nesta seção está o planejamento do projeto, contendo a organização das tare
 
 A planilha pode ser acessada abaixo:
 
-- 📁 [Planejamento Sprint 1](./planejamento%20sprint%201%20(1).xlsx)
+- 📁 [Planejamento Sprint 1](./planejamento2%20sprint%201.xlsx)
 
 > O planejamento é fundamental para garantir a organização da equipe, acompanhamento das atividades e cumprimento dos prazos estabelecidos.
-
 
  ---
 
